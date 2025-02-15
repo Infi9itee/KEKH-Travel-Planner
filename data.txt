@@ -1,0 +1,36 @@
+# Location Data
+0 Sajek Valley
+1 Saint Martin's Island
+2 Cox's Bazar Sea Beach
+3 Ratargul Swamp Forest
+4 Jaflong
+5 Sundarbans Mangrove Forest
+6 Nilgiri
+7 Nafakhum Waterfall
+8 Bichanakandi
+9 Kuakata Sea Beach
+10 Srimangal
+11 Maheshkhali Island
+12 Boga Lake
+13 Paharpur Buddhist Vihara
+14 Madhabkunda Waterfall
+
+# Adjacency Data
+0 2 15 8 23
+0 4 7 19 12
+0 5 12 5 30
+1 4 9 14 21
+1 5 14 6 27
+2 3 10 17 9
+2 4 8 20 13
+4 5 11 4 18
+14 10 6 16 25
+10 2 18 3 22
+2 6 4 11 28
+6 7 13 7 15
+7 12 5 9 26
+12 11 17 2 24
+11 13 3 10 29
+13 3 20 1 14
+9 4 16 12 6
+4 8 2 18 7
